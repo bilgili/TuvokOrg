@@ -1,0 +1,6 @@
+[submodule "IO"]
+	path = IO
+	url = https://github.com/BlueBrain/TuvokIO.git
+[submodule "Basics"]
+	path = Basics
+	url = https://github.com/BlueBrain/TuvokBasics.git

@@ -8,5 +8,3 @@ Build
 test/context/tvktest
 test/render/tuvok
 test/shaders/shtest
-doc
-*.xcodeproj
